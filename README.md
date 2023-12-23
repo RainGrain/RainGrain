@@ -32,5 +32,4 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=raingrain&theme=react-dark" alt="raingrain's trophy" >
 </p>
 
-![GitHub Snake Light](https://raw.githubusercontent.com/raingrain/raingrain/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![github Snake dark](https://raw.githubusercontent.com/raingrain/raingrain/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake Light](https://raw.githubusercontent.com/raingrain/raingrain/output/github-contribution-grid-snake.svg#gh-light-mode-only)![github Snake dark](https://raw.githubusercontent.com/raingrain/raingrain/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
