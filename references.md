@@ -13,3 +13,4 @@
 - [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 - [shields](https://github.com/badges/shields)
 - [skill-icons](https://github.com/tandpfun/skill-icons)
+- [github-readme-quotes](https://github.com/PiyushSuthar/github-readme-quotes)
