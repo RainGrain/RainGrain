@@ -1,3 +1,3 @@
-<h1 align="center">
-    <img align="center" src="https://raw.githubusercontent.com/raingrain/favicon/master/raingrain.png" alt="raingrain" />
-</h1>
+<div align="center">
+    <img align="center" src="images/welcome.png" alt="raingrain" />
+</div>
