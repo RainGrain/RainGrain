@@ -1,1 +1,3 @@
-<h1 style="font-family: cursive; text-align: center;">谷雨生百谷</h1>
+<div align="center">
+    <img src="raingrain.png" alt="raingrain" />
+</div>
