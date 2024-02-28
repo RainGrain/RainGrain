@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img align="center" src="images/welcome.png" alt="raingrain" />
+    <img src="images/welcome.png" alt="welcome" />
 </h1>
 
 <div align="center">
