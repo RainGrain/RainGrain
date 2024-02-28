@@ -1,3 +1,3 @@
 <div align="center">
-    <img src="raingrain.png" alt="raingrain" />
+    <img src="images/raingrain.png" alt="raingrain" />
 </div>
