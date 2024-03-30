@@ -1,5 +1,6 @@
 <h1 align="center">
     <img src="images/welcome.png" alt="welcome" />
+    <img src="images/boy.gif" alt="boy" />
 </h1>
 
 <div align="center">
